@@ -4,6 +4,7 @@
 
 inputString = input("Please enter a sentence: ")
 
+#Takes the inputted string reverses by slicing with [::-1] and outputs every second letter with [::2]
 newString = inputString[::-1]
 alternateString = newString[::2]
 

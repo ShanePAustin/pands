@@ -8,4 +8,4 @@ num2 = int(input("Enter the number you want to divide by: "))
 answer = int(num1 // num2)
 remainder = num1 % num2                                         #Gives mod remainder     
 
-print("{} divided by {} is {} with remaider {}".format(num1, num2, answer, remainder))
+print("{} divided by {} is {} with remainder {}".format(num1, num2, answer, remainder))
