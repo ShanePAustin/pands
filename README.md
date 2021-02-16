@@ -96,7 +96,7 @@ while loops and for loops
 File | Description
 -----|-------------
 grade.py	|		A program that reads in a student mark and prints a grade
-is Even.py		|	A program that asks the user to enter in a number, and the tells the user if the number is even or odd.
+isEven.py		|	A program that asks the user to enter in a number, and the tells the user if the number is even or odd.
 
 ### Lab 4.2
 
