@@ -57,8 +57,8 @@ Fun with Numbers: Numbers and Strings
 
 ##### Fun with Numbers
 
-absolute.py			A program that takes a number and returns an absolute/nl
-convert.py			A program that takes a number and convets to cents/nl
+absolute.py			A program that takes a number and returns an absolute /nl
+convert.py			A program that takes a number and convets to cents /nl
 floor.py			A program that takes a number and returns an int rounded down
 round.py			A program that rounds a number to an integer
 
