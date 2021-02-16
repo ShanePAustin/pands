@@ -95,7 +95,7 @@ while loops and for loops
 #### Flow Control if, elif and else
 File | Description
 -----|-------------
-grade.py	|		A program that reads in a student mark and prints a grade\
+grade.py	|		A program that reads in a student mark and prints a grade
 is Even.py		|	A program that asks the user to enter in a number, and the tells the user if the number is even or odd.
 
 #### Lab 4.2
@@ -103,9 +103,9 @@ is Even.py		|	A program that asks the user to enter in a number, and the tells t
 #### Loops
 File | Description
 -----|-------------
-average.py		|	A program that asks for number input and averages them\
-evens.py		|	Prints all the even numbers from 2 to 100\
-guess.py		|	A program that makes you guess a random number\
+average.py		|	A program that asks for number input and averages them
+evens.py		|	Prints all the even numbers from 2 to 100
+guess.py		|	A program that makes you guess a random number
 topThree.py		|	A program that creates 10 random numbers and prints them out and prints the top three
 
 #### For Fun:
