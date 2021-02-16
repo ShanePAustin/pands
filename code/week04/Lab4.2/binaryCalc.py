@@ -1,5 +1,6 @@
 #binaryCalc.py
 #A program that takes in an integer and outputs it in binary
+#and displays the calculation
 #Author: Shane Austin
 
 DateRemainder = []
