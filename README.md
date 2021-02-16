@@ -14,9 +14,9 @@ Introduction to Programming
 
 Basic Programs that cover Outputs, Inputs, and simple Calculations.
 
-#### Lab 2.2:
+### Lab 2.2:
 
-##### First Programs
+#### First Programs
 File | Description
 -----|-------------
 addOne.py | Program that asks for a number and adds 1
@@ -27,9 +27,9 @@ multiply.py | Program for basic multiplication
 nameAndage.py |	Program that asks for a Name and Age
 subtract.py | Program for basic subtraction
 
-#### Lab 2.3:
+### Lab 2.3:
 
-##### Variables and State
+#### Variables and State
 
 File | Description
 -----|-------------
@@ -56,9 +56,9 @@ bmi.py	| Program for calculating BMI
 Introduction to Variables.
 Fun with Numbers: Numbers and Strings
 
-#### Lab 3.2:
+### Lab 3.2:
 
-##### Fun with Numbers
+#### Fun with Numbers
 File | Description
 -----|-------------
 absolute.py		|	A program that takes a number and returns an absolute
@@ -66,9 +66,9 @@ convert.py	|		A program that takes a number and convets to cents
 floor.py		|	A program that takes a number and returns an int rounded down
 round.py		|	A program that rounds a number to an integer
 
-#### Lab 3.3:
+### Lab 3.3:
 
-##### Strings
+#### Strings
 File | Description
 -----|-------------
 len.py | A program that takes in a string and outputs the strings length
@@ -90,7 +90,7 @@ secondstring.py	 |A program that asks a user to input a string and outputs every
 If, elif and else
 while loops and for loops
 
-#### Lab 4.1
+### Lab 4.1
 
 #### Flow Control if, elif and else
 File | Description
@@ -98,7 +98,7 @@ File | Description
 grade.py	|		A program that reads in a student mark and prints a grade
 is Even.py		|	A program that asks the user to enter in a number, and the tells the user if the number is even or odd.
 
-#### Lab 4.2
+### Lab 4.2
 
 #### Loops
 File | Description
