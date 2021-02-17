@@ -40,7 +40,7 @@ randomGenerator.py | A program that generates a random number between a given ra
 sub.py | A subtraction program with strings
 testTypes.py | A program that show 5 variable types
 
-#### For Fun:
+#### For Fun
 File | Description
 -----|-------------
 diceRoller.py | A program that can roll multiple dice of different sizes
@@ -75,7 +75,7 @@ len.py | A program that takes in a string and outputs the strings length
 normalise.py |	This is a program that reads in a string and strips any leading or trailing spaces, the program also converts the string to lower case and output the length of the input and output strings.
 tab.py	| A program to demonstrate tab and new line
 
-#### For Fun:
+#### For Fun
 File | Description
 -----|-------------
 pallindrome.py	| A program that asks a user to input a string and says if it is a pallindrome.
@@ -90,7 +90,7 @@ secondstring.py	 |A program that asks a user to input a string and outputs every
 If, elif and else
 while loops and for loops
 
-### Lab 4.1
+### Lab 4.1:
 
 #### Flow Control if, elif and else
 File | Description
@@ -98,7 +98,7 @@ File | Description
 grade.py	|		A program that reads in a student mark and prints a grade
 isEven.py		|	A program that asks the user to enter in a number, and the tells the user if the number is even or odd.
 
-### Lab 4.2
+### Lab 4.2:
 
 #### Loops
 File | Description
@@ -108,7 +108,7 @@ evens.py		|	Prints all the even numbers from 2 to 100
 guess.py		|	A program that makes you guess a random number
 topThree.py		|	A program that creates 10 random numbers and prints them out and prints the top three
 
-#### For Fun:
+#### For Fun
 
 Automation of Computer Architecture & Technology Convergence homework
 File | Description
@@ -120,4 +120,26 @@ File | Description
 -----|-------------
 collatz.py		|	A program that takes in an integer and outputs a calculation string
 
+## Week 5:
 
+Data Structures
+
+### Lab 5:
+
+#### Data Structures
+File | Description
+-----|-------------
+months.py | A program that creates a tuple of months and seasons
+numberQueue.py | A program that generates 10 numbers and ouputs them in a queue
+studentRecord.py | A program that stores and prints student data
+
+#### For Fun
+
+File | Description
+-----|-------------
+primes.py | A program the outputs prime numbers upto 100
+  
+#### Weekly Task
+File | Description
+-----|-------------
+weekday.py | A program that outputs whether or not today is a weekday.
