@@ -1,5 +1,5 @@
 #studentRecord.py
-#A program that stores and prints tudent data
+#A program that stores and prints student data
 #Shane Austin
 
 student = {
