@@ -143,3 +143,48 @@ primes.py | A program the outputs prime numbers upto 100
 File | Description
 -----|-------------
 weekday.py | A program that outputs whether or not today is a weekday.
+
+## Week 6:
+
+Functions
+
+### Lab 6:
+
+#### Functions
+File | Description
+-----|-------------
+recordManager.py | A program that allows a user to create new students and to view students in a record.
+studentRecord.py | A program that stores and prints student data
+
+#### For Fun
+
+File | Description
+-----|-------------
+primeFunction.py | A program the outputs prime numbers in a function
+#### Weekly Task
+File | Description
+-----|-------------
+squareroot.py | A program that takes a positive floating-point number as input and outputs an approximation of its square root
+
+## Week 7:
+
+Files (Reading and Writing)
+
+### Lab 7:
+
+#### Functions
+File | Description
+-----|-------------
+recordManager.py | A program that allows a user to create new students and to view students in a record.
+initFile.py | A program that initialises a file
+countFile.py | A program that counts how many times a file was run
+students.json | Stored data from student data entry
+testdict.json | Test data storage from testJson.py
+testJson.py | A program that creates and writes to a JSON file
+count.txt | A text file recording the count form countFile.py
+
+#### Weekly Task
+File | Description
+-----|-------------
+es.py | A program that reads in a text file and outputs the number of e's it contains
+moby-dick.txt | A text file for es.py to read in and count instances of 'e'
